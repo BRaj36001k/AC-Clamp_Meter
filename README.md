@@ -1,7 +1,6 @@
 **⚡ AC Clamp Meter**
 
 A KiCad-based PCB design for a non-invasive AC measurement device using a Current Transformer (CT) sensor. Built as part of an EEE hardware project.
-
 _____________________________________________________________
 **📌 Overview**
 
@@ -9,11 +8,10 @@ This project implements an **AC Clamp Meter** circuit that measures alternating 
 ---------------------------------------------------------------------------------------
 |                Parameter              |                     Value                   |
 |---------------------------------------|---------------------------------------------|
-| Measurement Range                     |     0 – 100A AC (adjustable)                |
+| Measurement Range                     |     0 – 110A AC (adjustable)                |
 | CT Sensor                             |    SCT-013 / YHDC (30A or 100A variant)     |
 | Output                                |          0–3.3V analog (ADC-ready)          |
 | PCB Tool                              |                  KiCad 7.x                  |
-| Status                                |               🟡 In Progress                |
 ---------------------------------------------------------------------------------------
 ______________________________________________________________
 **🔌 How It Works**
